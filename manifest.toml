@@ -47,8 +47,8 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        url = "https://github.com/LycheeOrg/Lychee/archive/refs/tags/v6.1.2.tar.gz"
-        sha256 = "d21294873fbe8f6cb73cd2349607c1fb76d26833241ca272fbac6c24d0737857"
+        url = "https://github.com/LycheeOrg/Lychee/releases/download/v6.1.1/Lychee.zip"
+        sha256 = "6216e81d9376d8975de4f33cb24b7241ff2ec1c61c4db983f4f69e92778ee246"
         autoupdate.strategy = "latest_github_release"
 
     [resources.system_user]
